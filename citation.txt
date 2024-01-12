@@ -1,0 +1,7 @@
+@inproceedings{REPO379,
+    author = "Chen, Zhiqin and Yin, Kangxue and Fidler, Sanja",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "1465--1474",
+    title = "{AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis}",
+    year = "2022"
+}
